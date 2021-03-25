@@ -9,7 +9,7 @@ scipy==1.4.1
 mayavi==4.7.1
 ogr==0.12.1
 pydot==1.4.1
-PyYAML==5.3.1
+PyYAML==5.4
 scikits.talkbox==0.2.5
 sphinx_gallery==0.7.0
 sphinx_rtd_theme==0.4.3
